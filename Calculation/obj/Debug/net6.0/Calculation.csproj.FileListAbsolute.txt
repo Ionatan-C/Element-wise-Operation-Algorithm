@@ -1,0 +1,57 @@
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.exe
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.deps.json
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.runtimeconfig.json
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.dll
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.pdb
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.csproj.AssemblyReference.cache
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.AssemblyInfoInputs.cache
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.AssemblyInfo.cs
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.dll
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\obj\Debug\net6.0\refint\Calculation.dll
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.pdb
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.genruntimeconfig.cache
+C:\Users\cegi1_21\Desktop\Exam\Calculation\Calculation\obj\Debug\net6.0\ref\Calculation.dll
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2\Exam\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.exe
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2\Exam\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.deps.json
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2\Exam\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.runtimeconfig.json
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2\Exam\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.dll
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2\Exam\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.pdb
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.AssemblyInfoInputs.cache
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.AssemblyInfo.cs
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.csproj.CoreCompileInputs.cache
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.dll
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\refint\Calculation.dll
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.pdb
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.genruntimeconfig.cache
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\ref\Calculation.dll
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2 Element-wise Operation Algorithm\Exam\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.exe
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2 Element-wise Operation Algorithm\Exam\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.deps.json
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2 Element-wise Operation Algorithm\Exam\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.runtimeconfig.json
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2 Element-wise Operation Algorithm\Exam\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.dll
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2 Element-wise Operation Algorithm\Exam\Exam\Calculation\Calculation\bin\Debug\net6.0\Calculation.pdb
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2 Element-wise Operation Algorithm\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2 Element-wise Operation Algorithm\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.AssemblyInfoInputs.cache
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2 Element-wise Operation Algorithm\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.AssemblyInfo.cs
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2 Element-wise Operation Algorithm\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.csproj.CoreCompileInputs.cache
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2 Element-wise Operation Algorithm\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.dll
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2 Element-wise Operation Algorithm\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\refint\Calculation.dll
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2 Element-wise Operation Algorithm\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.pdb
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2 Element-wise Operation Algorithm\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\Calculation.genruntimeconfig.cache
+D:\A.University\A.Second Year\A.Object Oriented Programming\Assignment 2 Element-wise Operation Algorithm\Exam\Exam\Calculation\Calculation\obj\Debug\net6.0\ref\Calculation.dll
+D:\GitHub Projects\A.Software Developer Projects\Element-wise Operation Algorithm\Calculation\bin\Debug\net6.0\Calculation.exe
+D:\GitHub Projects\A.Software Developer Projects\Element-wise Operation Algorithm\Calculation\bin\Debug\net6.0\Calculation.deps.json
+D:\GitHub Projects\A.Software Developer Projects\Element-wise Operation Algorithm\Calculation\bin\Debug\net6.0\Calculation.runtimeconfig.json
+D:\GitHub Projects\A.Software Developer Projects\Element-wise Operation Algorithm\Calculation\bin\Debug\net6.0\Calculation.dll
+D:\GitHub Projects\A.Software Developer Projects\Element-wise Operation Algorithm\Calculation\bin\Debug\net6.0\Calculation.pdb
+D:\GitHub Projects\A.Software Developer Projects\Element-wise Operation Algorithm\Calculation\obj\Debug\net6.0\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Projects\A.Software Developer Projects\Element-wise Operation Algorithm\Calculation\obj\Debug\net6.0\Calculation.AssemblyInfoInputs.cache
+D:\GitHub Projects\A.Software Developer Projects\Element-wise Operation Algorithm\Calculation\obj\Debug\net6.0\Calculation.AssemblyInfo.cs
+D:\GitHub Projects\A.Software Developer Projects\Element-wise Operation Algorithm\Calculation\obj\Debug\net6.0\Calculation.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\A.Software Developer Projects\Element-wise Operation Algorithm\Calculation\obj\Debug\net6.0\Calculation.dll
+D:\GitHub Projects\A.Software Developer Projects\Element-wise Operation Algorithm\Calculation\obj\Debug\net6.0\refint\Calculation.dll
+D:\GitHub Projects\A.Software Developer Projects\Element-wise Operation Algorithm\Calculation\obj\Debug\net6.0\Calculation.pdb
+D:\GitHub Projects\A.Software Developer Projects\Element-wise Operation Algorithm\Calculation\obj\Debug\net6.0\Calculation.genruntimeconfig.cache
+D:\GitHub Projects\A.Software Developer Projects\Element-wise Operation Algorithm\Calculation\obj\Debug\net6.0\ref\Calculation.dll

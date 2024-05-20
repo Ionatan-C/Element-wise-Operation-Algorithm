@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bB8TQCIHMI6BenxH3ZF9raHp8ATrcajPRXAlNvRTZD9K79IZjHYK2Htee3yfZOAwX8SLMpCsPG4PRfDbAQ9DjQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub Projects\\A.Software Developer Projects\\Element-wise Operation Algorithm\\Calculation\\Calculation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yonny\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\yonny\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\yonny\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\yonny\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
